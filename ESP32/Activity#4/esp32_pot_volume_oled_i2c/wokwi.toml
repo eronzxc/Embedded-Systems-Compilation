@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/esp32.esp32.esp32/esp32_pot_volume_oled_i2c.ino.bin'
+elf = 'build/esp32.esp32.esp32/esp32_pot_volume_oled_i2c.ino.elf'
