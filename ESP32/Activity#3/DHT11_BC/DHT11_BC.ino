@@ -1,5 +1,5 @@
-// EXP 3.2 - Activity #3
-// DHT11 Monitoring Using BT Serial App (ESP32)
+// Activity #3
+// 3.3 DHT11 Monitoring Using BT Serial App (ESP32)
 
 #include "BluetoothSerial.h"
 #include <DHT.h>
